@@ -72,7 +72,7 @@ const handleForm = (e) => {
   } catch (err) {
     // Attrape les erreurs du block try et les affiche dans la console.
     console.error(err);
-    notyf.error("message d'erreur");
+    notyf.error(err.message);
   }
 };
 
