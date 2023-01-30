@@ -1,6 +1,6 @@
 import { generatePalette, isHexColor, hexToCSSHSL } from "./modules/utils";
 import { Color } from "./modules/Color.js";
-import { forEach } from "lodash-es";
+
 import * as convert from "color-convert";
 import { Notyf } from "notyf";
 import "notyf/notyf.min.css";
