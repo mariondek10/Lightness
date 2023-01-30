@@ -20,6 +20,9 @@
   "homepage": "https://github.com/mariondek10/Lightness#readme",
   "devDependencies": {
     "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "notyf": "^3.10.0"
   }
-  
 }
